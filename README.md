@@ -113,6 +113,8 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Khan Academy Mathematics](https://www.khanacademy.org/math) – Beginner-friendly math tutorials.
 - [MIT OpenCourseWare – Mathematics](https://ocw.mit.edu/courses/mathematics/) – Free university-level math courses.
 - [3Blue1Brown](https://www.3blue1brown.com/) – Visual explanations of advanced math concepts.
+- [Learro](https://learro.com/) – Free AP Calculus AB/BC and AP Statistics study guides, practice exams, and formula sheets.
+- [Chesser Resources](https://chesserresources.com.au/new/) – Free document-sharing platform with math notes, exam papers, and academic resources. Free signup required.
 
 ### Guides
 - [Paul’s Online Math Notes](https://tutorial.math.lamar.edu/) – Clear explanations of calculus and differential equations.
