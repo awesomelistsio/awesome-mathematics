@@ -34,6 +34,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Encyclopedia of Mathematics](https://encyclopediaofmath.org/) – Comprehensive reference for mathematical concepts and definitions.
 - [OEIS](https://oeis.org/) – Online Encyclopedia of Integer Sequences.
 - [PlanetMath](https://planetmath.org/) – Collaborative mathematics encyclopedia with formal definitions.
+- [InteractivePrimer.com](https://InteractivePrimer.com/) – Free, open-source “smart web pages” that teach maths, with animations, interactive diagrams, and randomized quizzes.
 
 ## Pure Mathematics
 
